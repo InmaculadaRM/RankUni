@@ -1,17 +1,18 @@
 Package: RankUni
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Tools for Extracting University Ranking Data from the web
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
+      "Inmaculada", "RM",
+      email = "inma@fitovitalia.com",
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
-License: What license is it under?
+Description: An R package providing functions to scrape, extract, and organize data from major university ranking websites, 
+  with a focus on UK university rankings. 
+  The package enables automated data collection for research, analysis, and visualization of academic performance metrics across multiple ranking platforms.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
